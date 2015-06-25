@@ -1,0 +1,1 @@
+While GSON has rich feature for JSON manipulation. I found it too complicate and lack simplicity and some basic usage so I want to fork it out
